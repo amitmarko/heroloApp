@@ -1,0 +1,74 @@
+@import url("https://npmcdn.com/react-bootstrap-table/dist/react-bootstrap-table-all.min.css");
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
+body{
+}
+.container{
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
+}
+
+.react-bs-table td { outline: none !important; }
+
+.btn-new{
+  margin-bottom: 10px;
+}
+
+.delete-btns button{
+  width: 70px;
+}
+
+.text-help{
+  margin-bottom: 20px;
+}
+
+#btn-can{
+  margin-left: 10px;
+  width: 70px;
+  border: 1px solid gainsboro;
+}
+
+#btn-ok{
+  width: 70px;
+}
+
+
+.del-book-title{
+  color: #db5e5a;
+  font-weight: bold;
+  margin-top:10px;
+}
+
+
+.modal-footer{
+  text-align: left !important;
+}
+
+.edit-del-btn{
+  text-align:center !important;
+}
+
+.new-book-btn{
+  width: 8%;
+  margin-bottom: 5px;
+}
+
+.header{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+img{
+  width: 1000px;
+}
+
+.edit{
+  width: 45%;
+  float: left;
+  padding-left: 8px;
+}
+
+.delete{
+  width: 45%;
+  float: right;
+  padding-right: 8px;
+}

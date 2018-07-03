@@ -1,0 +1,6 @@
+[
+   {"id":"1","bookTitle":"A Song Of Ice And Fire","authorName":"George Martin","publishedDate":"01-08-1996"},
+   {"id":"2","bookTitle":"Harry Potter","authorName":"Joanne Rowling","publishedDate":"26-06-1997"},
+   {"id":"3","bookTitle":"The Lord Of The Rings","authorName":"John Tolkien","publishedDate":"29-07-1954"},
+   {"id":"4","bookTitle":"The Hunger Games","authorName":"Suzanne Collins","publishedDate":"20-05-2008"}
+]

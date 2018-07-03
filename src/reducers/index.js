@@ -1,7 +1,11 @@
-import { combineReducers } from 'redux';
+import {createStore, combineReducers} from 'redux'
+import { reducer as formReducer } from 'redux-form';
+import BooksReducer from './reducer_books';
+
 
 const rootReducer = combineReducers({
-  state: (state = {}) => state
+   books: BooksReducer,
+   form: formReducer
 });
 
 export default rootReducer;
